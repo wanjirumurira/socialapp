@@ -12,8 +12,8 @@ For a first time user, the user is directed to the setting page where he/she can
 This app allows users to:
 - Upload Images
 - Follow and unfollower different users
-View their followers uploads
-Like or unlike various uploads
+- View their followers uploads
+- Like or unlike various uploads
 
 **Disclaimer**
 -------------------------------------------------------------------------------------------------------------------------------------------
