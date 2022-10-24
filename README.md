@@ -10,10 +10,10 @@ For a first time user, the user is directed to the setting page where he/she can
 
 **Features**
 This app allows users to:
-1Upload Images
-2Follow and unfollower different users
-"*"View their followers uploads
-*Like or unlike various uploads
+- Upload Images
+- Follow and unfollower different users
+View their followers uploads
+Like or unlike various uploads
 
 **Disclaimer**
 -------------------------------------------------------------------------------------------------------------------------------------------
