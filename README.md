@@ -15,6 +15,4 @@ This app allows users to:
 - View their followers uploads
 - Like or unlike various uploads
 
-**Disclaimer**
--------------------------------------------------------------------------------------------------------------------------------------------
-As a person intrested in backend development, I was mostly involved in the backend part of the application.
+
